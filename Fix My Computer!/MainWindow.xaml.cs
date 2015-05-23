@@ -350,7 +350,7 @@ namespace Fix_My_Computer
                     P.Dispatcher.Invoke(new UpdateTitleCallback(this.UpdateTitle), new object[] { "rebooting..." });
 
                     // reboot command
-                    Process.Start("ShutDown", "/r");
+                    Process.Start("shutdown.exe", "-r -t 0");
 
                     // we are done here
                     Environment.Exit(0);
