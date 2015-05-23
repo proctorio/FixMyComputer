@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fix My Computer!", "Fix My Computer!\Fix My Computer!.csproj", "{0842BB44-44A2-4BE1-8D37-4A9A9A90D00B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://echovoice.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Fix\u0020My\u0020Computer!\\Fix\u0020My\u0020Computer!.csproj
+		SccProjectName0 = Fix\u0020My\u0020Computer!
+		SccLocalPath0 = Fix\u0020My\u0020Computer!
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0842BB44-44A2-4BE1-8D37-4A9A9A90D00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0842BB44-44A2-4BE1-8D37-4A9A9A90D00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0842BB44-44A2-4BE1-8D37-4A9A9A90D00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0842BB44-44A2-4BE1-8D37-4A9A9A90D00B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
