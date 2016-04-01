@@ -1,0 +1,10 @@
+Linux FixMyComputer is a bash script that, at present, simply makes sure your distribution and applications are up to date. This should be used only as a workaround in case the graphical updater is slow or unresponsive and the user doesn't already know the terminal commands. In the future this script will also check for other issues and perform cleanup. Currently FixMyLinux supports Debian, Linux Mint, Ubuntu, Kali, Fedora, and Open Suse, and more distributions will be added in the near future.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Instructions:
+   After downloading the file, right-click it and open "properties". In properties, make sure the tickbox to allow executing the file as a program is checked. Then open a terminal, enter "su", provide your password, then drag and drop the file into the terminal window. This will create a link to the file's location so you can run it without having to enter the full path.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+The get_distro() function is reused code created by Jared Breland. The only change made to his original script - found here: http://www.legroom.net/2010/05/05/generic-method-determine-linux-or-unix-distribution-name - was giving it a return rather than an export value for use as a function.
