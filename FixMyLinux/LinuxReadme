@@ -1,4 +1,4 @@
-Linux FixMyComputer is a bash script that, at present, simply makes sure your distribution and applications are up to date. This should be used only as a workaround in case the graphical updater is slow or unresponsive and the user doesn't already know the terminal commands. In the future this script will also check for other issues and perform cleanup. Currently FixMyLinux supports Debian, Linux Mint, Ubuntu, Kali, Fedora, and Open Suse, and more distributions will be added in the near future.
+Linux FixMyComputer is a bash script that, at present, simply makes sure your distribution and applications are up to date. This should be used only as a workaround in case the graphical updater is slow or unresponsive and the user doesn't already know the terminal commands. In the future this script will also check for other issues and perform cleanup. Currently FixMyLinux supports Debian, Linux Mint, Ubuntu, Kali, Fedora, Manjaro, and Open Suse, and more distributions will be added in the near future.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
