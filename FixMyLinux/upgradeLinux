@@ -37,6 +37,8 @@ update()
 		sudo dnf update
 	elif [ "$DISTRO" = "SUSE LINUX" ] ; then
 		sudo zypper update
+	elif [ "$DISTRO" = "ManjaroLinux" ] ; then
+		sudo pacman -Syyu
 	else echo "Distribution " $DISTRO " not yet supported"
 	fi
 }
